@@ -3,7 +3,7 @@
     "descicao": "Eliminatórias copa de 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "imagem": "TODO"
     },
     "mandante": {
       "nome": "Brasil",
@@ -15,12 +15,12 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
-  } 
+  }, 
   {
     "descicao": "Eliminatórias copa de 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "imagem": "TODO"
     },
     "mandante": {
       "nome": "Uruguay",
@@ -32,12 +32,12 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
-  }
+  },
   {
     "descicao": "Eliminatórias copa de 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "imagem": "TODO"
     },
     "mandante": {
       "nome": "Brasil",
